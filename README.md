@@ -1,0 +1,2 @@
+# Tunneling-simulator
+The project I worked on within the Magneti Marelli six-week internship program, Automotive Lightning department. Hardware used: -STM32F4 Microcontroller -2 LED matrixes -4 SHARP infrared sensors -1 Vector CAN module -CAN Transciever (built by us) Software modules: -Sigprep -> Communication between the CAND interface and the hardware -Sense -> Sensors, ADC, DAC configuration -Display -> LED matrix, SPI, DMA configuration
